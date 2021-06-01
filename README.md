@@ -1,6 +1,6 @@
 # Portfolio Website With Sass
 This is a Portfolio Website created using HTML, CSS, and CSS Preprocessor SASS. Through this project I got to learn a lot about SASS and how it extends the functionality of CSS. 
-SASS offers you a developer to write CSS more like a programming language and to be more specific like an Object Oriented Programming language. 
+SASS offers you as a developer to write CSS more like a programming language and to be more specific like an Object Oriented Programming language. 
 
 I also deep dived into CSS topics like Media Queries, Responsive Web-Design, Animations and Transitions, CSS Flexbox, CSS Grid, and also got to learn the best practices of front-end web development. I got to learn a lot and the project was quite fun to develop.
 
