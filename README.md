@@ -11,9 +11,9 @@ If you like the website, feel free to get ideas.
 
 ## Screenshots 📷
 
-![Website Desktop Screenshot 1](img/screenshots/1.png)
-![Website Desktop Screenshot 2](img/screenshots/2.png)
-![Website Desktop Screenshot 3](img/screenshots/3.png)
+![Website Desktop Screenshot 1](dist/img/screenshots/1.jpg)
+![Website Desktop Screenshot 2](dist/img/screenshots/2.jpg)
+![Website Desktop Screenshot 3](dist/img/screenshots/3.jpg)
 
 
 
